@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ### Run a simulation
 
-From the project directory, run one of the simulation scripts:
+From the root directory, run one of the simulation scripts:
 
 ```bash
 python3 -m v7_RUN_SIMULATION_1 # if on Mac/Linux
