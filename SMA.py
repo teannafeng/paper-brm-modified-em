@@ -6,7 +6,7 @@ algorithm proposed in the manuscript:
 "A Modified Expectation-Maximization Algorithm for Accelerated 
 Item Response Theory Model Estimation with Large Datasets"
 
-submitted to *Behavior Research Methods* (Manuscript ID: XXXX).
+submitted to *Behavior Research Methods* (Manuscript ID: BR-Org-25-740).
 
 This script defines supporting functions that are imported by 
 the main algorithm implementation (`v7_MODIFIED_EM.py`).

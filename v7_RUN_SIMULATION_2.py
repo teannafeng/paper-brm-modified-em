@@ -4,7 +4,7 @@ This script runs Simulation 2 reported in the manuscript:
 "A Modified Expectation-Maximization Algorithm for Accelerated 
 Item Response Theory Model Estimation with Large Datasets"
 
-submitted to *Behavior Research Methods* (Manuscript ID: XXXX).
+submitted to *Behavior Research Methods* (Manuscript ID: BR-Org-25-740).
 
 Code written by: 
 - Tianying (Teanna) Feng, University of California, Los Angeles
