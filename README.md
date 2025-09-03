@@ -1,4 +1,3 @@
-# Code for Modified EM Manuscript
 
 This folder contains the code for the manuscript submitted to *Behavior Research Methods*.
 
