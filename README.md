@@ -1,4 +1,4 @@
-This folder contains the code for the manuscript submitted to *Behavior Research Methods*.
+This repository contains the code for the manuscript submitted to *Behavior Research Methods* on 2025-09-03.
 
 ## Manuscript information
 
