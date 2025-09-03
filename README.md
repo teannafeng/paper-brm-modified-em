@@ -1,4 +1,3 @@
-
 This folder contains the code for the manuscript submitted to *Behavior Research Methods*.
 
 ## Manuscript information
