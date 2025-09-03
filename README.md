@@ -3,7 +3,7 @@ This repository contains the supplemental files and code for the manuscript subm
 ## Manuscript information
 
 - **Manuscript title:** A Modified Expectation-Maximization Algorithm for Accelerated Item Response Theory Model Estimation with Large Datasets
-- **Manuscript ID:** xxxx
+- **Manuscript ID:** BR-Org-25-740
 
 ## Quick start
 
