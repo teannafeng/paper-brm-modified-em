@@ -49,10 +49,12 @@ paper-brm-modified-em/
 │
 ├── SIM_2PL.py               # data simulator for Simulation 1 and 2
 ├── SIM_2PL_FORM.py          # data simulator for Simulation 3
+├── SIM_2PL_TESTLET.py       # data simulator for Simulation 4
 │
 ├── v7_RUN_SIMULATION_1.py   # runner script for Simulation 1
 ├── v7_RUN_SIMULATION_2.py   # runner script for Simulation 2
 ├── v7_RUN_SIMULATION_3.py   # runner script for Simulation 3
+├── v7_RUN_SIMULATION_4.py   # runner script for Simulation 4
 │
 ├── .gitattributes
 ├── .gitignore
